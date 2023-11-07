@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiAT3.2", "RiAT3\RiAT3.2.csproj", "{90521B19-440C-478E-AE99-C41C06C599FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT3.3", "RiAT3.3\RiAT3.3.csproj", "{8E74164A-F1CA-4040-92E3-583EB312F5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT3.4", "RiAT3.4\RiAT3.4.csproj", "{5C5490BE-0673-40AE-B6A5-626B26B9F1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90521B19-440C-478E-AE99-C41C06C599FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90521B19-440C-478E-AE99-C41C06C599FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90521B19-440C-478E-AE99-C41C06C599FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90521B19-440C-478E-AE99-C41C06C599FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E74164A-F1CA-4040-92E3-583EB312F5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E74164A-F1CA-4040-92E3-583EB312F5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E74164A-F1CA-4040-92E3-583EB312F5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E74164A-F1CA-4040-92E3-583EB312F5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5490BE-0673-40AE-B6A5-626B26B9F1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5490BE-0673-40AE-B6A5-626B26B9F1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5490BE-0673-40AE-B6A5-626B26B9F1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5490BE-0673-40AE-B6A5-626B26B9F1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6294873B-3678-4DAB-8DB6-FAEA5161E83E}
+	EndGlobalSection
+EndGlobal
