@@ -9,6 +9,10 @@ namespace RiAT3._3.Controllers
     {
         static private List<Product> products = new List<Product>();
         static private int Id = 0;
+        static private Dictionary<string, string> users = new Dictionary<string, string>()
+        {
+            {"user", "qwerty" }
+        };
 
         [HttpGet]
         public IActionResult GetAllProducts()
